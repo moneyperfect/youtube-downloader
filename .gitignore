@@ -1,0 +1,6 @@
+__pycache__/
+downloads/
+downloads_test/
+*.pyc
+.env
+*.log

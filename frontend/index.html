@@ -1,0 +1,82 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YouTube 视频下载器</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700&family=Cormorant+Garamond:wght@400;500;600;700&family=Noto+Serif+SC:wght@400;500;600;700;800&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="page-shell">
+        <header class="hero">
+            <p class="hero-kicker">Studio Aureo</p>
+            <h1>YOUTUBE 视频下载器</h1>
+            <p class="hero-subtitle">文艺复兴工坊 · 将网络影像收进你的私人典藏</p>
+            <div class="hero-divider" aria-hidden="true"></div>
+            <div class="hero-badges" aria-hidden="true">
+                <span class="hero-badge"><i>&#10022;</i> 工坊质感</span>
+                <span class="hero-badge"><i>&#9883;</i> 稳定下载</span>
+                <span class="hero-badge"><i>&#9672;</i> 本地归档</span>
+            </div>
+        </header>
+
+        <main class="layout-grid">
+            <section class="panel panel-form" aria-labelledby="formTitle">
+                <h2 id="formTitle" class="panel-title">下载委托</h2>
+
+                <label for="videoUrl" class="field-label">视频地址</label>
+                <div class="field-row">
+                    <input id="videoUrl" class="field-input" type="text" placeholder="粘贴视频链接，例如 https://www.youtube.com/watch?v=...">
+                    <button id="downloadBtn" class="btn btn-crimson">开始下载</button>
+                </div>
+                <p class="field-hint">下载任务会自动使用预设网络通道，无需额外配置。</p>
+
+                <div class="status-strip">
+                    <div class="status-chip">
+                        <span class="chip-icon">&#8987;</span>
+                        <span id="globalProgressText">暂无活动下载</span>
+                    </div>
+                    <button id="enableNotifyBtn" class="mini-btn" type="button">启用完成通知</button>
+                </div>
+                <div class="global-progress" id="globalProgressTrack">
+                    <div class="global-progress-fill" id="globalProgressFill"></div>
+                </div>
+            </section>
+
+            <section class="panel panel-history" aria-labelledby="historyTitle">
+                <div class="panel-head">
+                    <h2 id="historyTitle" class="panel-title">历史下载记录</h2>
+                    <span id="activeCount" class="active-count">0 个活动任务</span>
+                </div>
+
+                <div class="table-head">
+                    <span class="th-name"><i>&#127916;</i> 视频标题</span>
+                    <span class="th-size"><i>&#128230;</i> 文件大小</span>
+                    <span class="th-status"><i>&#9203;</i> 状态</span>
+                    <span class="th-actions"><i>&#127932;</i> 操作</span>
+                </div>
+
+                <div class="download-list" id="downloadList">
+                    <div class="empty-state" id="emptyState">暂无下载记录，输入链接开始第一条任务。</div>
+                </div>
+            </section>
+        </main>
+
+        <footer class="site-footer">
+            <span>All Rights Reserved</span>
+        </footer>
+    </div>
+
+    <div class="toast" id="toast"></div>
+    <script src="app.js"></script>
+</body>
+
+</html>
+

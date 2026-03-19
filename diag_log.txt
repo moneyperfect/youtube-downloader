@@ -1,0 +1,89 @@
+=== STDOUT ===
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Q5oL6dyUBS4
+[youtube] Q5oL6dyUBS4: Downloading webpage
+[youtube] Q5oL6dyUBS4: Downloading android vr player API JSON
+[info] Q5oL6dyUBS4: Downloading 1 format(s): 399+140
+[download] Destination: downloads\diag_test.f399.mp4
+[download]   0.0% of   23.37MiB at   35.30KiB/s ETA 11:18
+[download]   0.0% of   23.37MiB at  105.90KiB/s ETA 03:45
+[download]   0.0% of   23.37MiB at  247.10KiB/s ETA 01:36
+[download]   0.1% of   23.37MiB at  511.33KiB/s ETA 00:46
+[download]   0.1% of   23.37MiB at  312.14KiB/s ETA 01:16
+[download]   0.3% of   23.37MiB at  379.66KiB/s ETA 01:02
+[download]   0.5% of   23.37MiB at  553.18KiB/s ETA 00:43
+[download]   1.1% of   23.37MiB at  814.96KiB/s ETA 00:29
+[download]   2.1% of   23.37MiB at    1.26MiB/s ETA 00:18
+[download]   4.3% of   23.37MiB at    2.02MiB/s ETA 00:11
+[download]   8.6% of   23.37MiB at    3.35MiB/s ETA 00:06
+[download]  17.1% of   23.37MiB at    5.76MiB/s ETA 00:03
+[download]  34.2% of   23.37MiB at    9.89MiB/s ETA 00:01
+[download]  42.1% of   23.37MiB at   11.64MiB/s ETA 00:01
+[download]  42.2% of   23.37MiB at   39.09KiB/s ETA 05:54
+[download]  42.2% of   23.37MiB at  112.82KiB/s ETA 02:02
+[download]  42.2% of   23.37MiB at  258.34KiB/s ETA 00:53
+[download]  42.2% of   23.37MiB at  553.60KiB/s ETA 00:24
+[download]  42.3% of   23.37MiB at  277.47KiB/s ETA 00:49
+[download]  42.4% of   23.37MiB at  354.32KiB/s ETA 00:38
+[download]  42.7% of   23.37MiB at  487.62KiB/s ETA 00:28
+[download]  43.2% of   23.37MiB at  747.12KiB/s ETA 00:18
+[download]  44.3% of   23.37MiB at    1.18MiB/s ETA 00:11
+[download]  46.4% of   23.37MiB at    1.95MiB/s ETA 00:06
+[download]  50.7% of   23.37MiB at    3.27MiB/s ETA 00:03
+[download]  59.3% of   23.37MiB at    5.59MiB/s ETA 00:01
+[download]  76.4% of   23.37MiB at    9.69MiB/s ETA 00:00
+[download]  83.6% of   23.37MiB at   11.33MiB/s ETA 00:00
+[download]  83.6% of   23.37MiB at   34.07KiB/s ETA 01:54
+[download]  83.6% of   23.37MiB at  100.49KiB/s ETA 00:38
+[download]  83.7% of   23.37MiB at  234.48KiB/s ETA 00:16
+[download]  83.7% of   23.37MiB at  494.04KiB/s ETA 00:07
+[download]  83.8% of   23.37MiB at  295.44KiB/s ETA 00:13
+[download]  83.9% of   23.37MiB at  359.50KiB/s ETA 00:10
+[download]  84.2% of   23.37MiB at  521.78KiB/s ETA 00:07
+[download]  84.7% of   23.37MiB at  792.92KiB/s ETA 00:04
+[download]  85.8% of   23.37MiB at    1.23MiB/s ETA 00:02
+[download]  87.9% of   23.37MiB at    2.00MiB/s ETA 00:01
+[download]  92.2% of   23.37MiB at    3.33MiB/s ETA 00:00
+[download] 100.0% of   23.37MiB at    5.59MiB/s ETA 00:00
+[download] 100% of   23.37MiB in 00:00:04 at 5.46MiB/s
+[download] Destination: downloads\diag_test.f140.m4a
+[download]   0.0% of    2.00MiB at   30.65KiB/s ETA 01:06
+[download]   0.1% of    2.00MiB at   91.96KiB/s ETA 00:22
+[download]   0.3% of    2.00MiB at  214.58KiB/s ETA 00:09
+[download]   0.7% of    2.00MiB at  439.34KiB/s ETA 00:04
+[download]   1.5% of    2.00MiB at  267.25KiB/s ETA 00:07
+[download]   3.1% of    2.00MiB at  334.13KiB/s ETA 00:05
+[download]   6.2% of    2.00MiB at  474.96KiB/s ETA 00:04
+[download]  12.4% of    2.00MiB at  719.18KiB/s ETA 00:02
+[download]  24.9% of    2.00MiB at    1.11MiB/s ETA 00:01
+[download]  49.8% of    2.00MiB at    1.81MiB/s ETA 00:00
+[download]  99.7% of    2.00MiB at    3.04MiB/s ETA 00:00
+[download] 100.0% of    2.00MiB at    3.04MiB/s ETA 00:00
+[download] 100% of    2.00MiB in 00:00:01 at 1.46MiB/s
+[Merger] Merging formats into "downloads\diag_test.mp4"
+Deleting original file downloads\diag_test.f140.m4a (pass -k to keep)
+Deleting original file downloads\diag_test.f399.mp4 (pass -k to keep)
+
+=== STDERR ===
+[debug] Command-line config: ['-v', '--newline', '--no-warnings', '--ffmpeg-location', 'E:\\python\\Lib\\site-packages\\imageio_ffmpeg\\binaries\\ffmpeg-win-x86_64-v7.1.exe', '--merge-output-format', 'mp4', '-f', 'bv*[ext=mp4]+ba[ext=m4a]/bv*+ba/b', '-o', 'downloads/diag_test.%(ext)s', '--user-agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', '--no-part', '--retries', '30', '--fragment-retries', '30', '--retry-sleep', 'linear=1::2', '--no-check-certificates', '--socket-timeout', '30', '--extractor-retries', '5', '--file-access-retries', '5', '--continue', '--proxy', 'http://127.0.0.1:7897', 'https://www.youtube.com/watch?v=Q5oL6dyUBS4']
+[debug] Encodings: locale cp936, fs utf-8, pref cp936, out gbk (No ANSI), error gbk (No ANSI), screen gbk (No ANSI)
+[debug] yt-dlp version stable@2026.02.04 from yt-dlp/yt-dlp [c677d866d] (pip)
+[debug] Python 3.12.6 (CPython AMD64 64bit) - Windows-11-10.0.22631-SP0 (OpenSSL 3.0.15 3 Sep 2024)
+[debug] exe versions: ffmpeg 7.1-essentials_build-www.gyan.dev (setts)
+[debug] Optional libraries: brotli-1.1.0, certifi-2024.08.30, mutagen-1.47.0, pycrypto-3.23.0, requests-2.32.3, sqlite3-3.45.3, urllib3-1.26.20 (unsupported), websockets-15.0.1
+[debug] JS runtimes: none
+[debug] Proxy map: {'all': 'http://127.0.0.1:7897'}
+[debug] Request Handlers: urllib, websockets
+[debug] Plugin directories: none
+[debug] Loaded 1856 extractors
+[debug] [youtube] [pot] PO Token Providers: none
+[debug] [youtube] [pot] PO Token Cache Providers: memory
+[debug] [youtube] [pot] PO Token Cache Spec Providers: webpo
+[debug] [youtube] [jsc] JS Challenge Providers: bun (unavailable), deno (unavailable), node (unavailable), quickjs (unavailable)
+[debug] [youtube] Forcing "tv" player JS variant for player 1798f86c
+        original url = /s/player/1798f86c/player_es6.vflset/en_US/base.js
+[debug] Sort order given by extractor: quality, res, fps, hdr:12, source, vcodec, channels, acodec, lang, proto
+[debug] Formats sorted by: hasvid, ie_pref, quality, res, fps, hdr:12(7), source, vcodec, channels, acodec, lang, proto, size, br, asr, vext, aext, hasaud, id
+[debug] Invoking http downloader on "https://rr1---sn-oguelnz7.googlevideo.com/videoplayback?expire=1771202338&ei=whKSadPJLZjC1d8PkeHK6Q0&ip=154.64.226.166&id=o-AOPIRhPn7ASbUw_g_rq2G2Nk6PgwEi7bQwGWMqsPqPQD&itag=399&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=549&met=1771180738%2C&mh=cy&mm=31%2C26&mn=sn-oguelnz7%2Csn-npoldnes&ms=au%2Conr&mv=m&mvi=1&pl=24&rms=au%2Cau&gcr=jp&initcwndbps=4212500&bui=AVNa5-xtu3RbLvDY9Au6rK_0jn2PXqFW1LKb7oyOCci283ol8VgB5O84LJ7_sBIOdLK8UWdzDSXb9GOJ&spc=6dlaFDQ2r4cK&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=24509766&dur=129.766&lmt=1759616402891373&mt=1771180418&fvip=1&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968%2C51772949&c=ANDROID_VR&txp=5537534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJEij0EwRgIhANAuCpn1KE-7mswNQU8wddDbp5hqRGlo9Tvw18t_czj1AiEAm8fYxyWqnXx4nXIKzltoJKnuW1xav8tO-KOLYRgkljE%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAPvc2CkqDZVZdeOIYOTlisu8XN3IWMIAQDs-ENCcWUcaAiEAp4h7-TNuHvAQQoMI-GMnH2mq2LMnOQ_5UfGK0zqpoIY%3D"
+[debug] File locking is not supported. Proceeding without locking
+[debug] Invoking http downloader on "https://rr1---sn-oguelnz7.googlevideo.com/videoplayback?expire=1771202338&ei=whKSadPJLZjC1d8PkeHK6Q0&ip=154.64.226.166&id=o-AOPIRhPn7ASbUw_g_rq2G2Nk6PgwEi7bQwGWMqsPqPQD&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=549&met=1771180738%2C&mh=cy&mm=31%2C26&mn=sn-oguelnz7%2Csn-npoldnes&ms=au%2Conr&mv=m&mvi=1&pl=24&rms=au%2Cau&gcr=jp&initcwndbps=4212500&bui=AVNa5-xtu3RbLvDY9Au6rK_0jn2PXqFW1LKb7oyOCci283ol8VgB5O84LJ7_sBIOdLK8UWdzDSXb9GOJ&spc=6dlaFDQ2r4cK&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=2102199&dur=129.822&lmt=1759611542962929&mt=1771180418&fvip=1&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968%2C51772949&c=ANDROID_VR&txp=5532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJEij0EwRQIhAKh9XD2zey8jM4iNZ1IPjkE-rxCEAbS6m-jpfHT6xeY6AiAhXGqiIe2yT7oW6LlC_NMJT_ulPPem4GK4AUw1aPw8Ig%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAPvc2CkqDZVZdeOIYOTlisu8XN3IWMIAQDs-ENCcWUcaAiEAp4h7-TNuHvAQQoMI-GMnH2mq2LMnOQ_5UfGK0zqpoIY%3D"
+[debug] ffmpeg command line: E:\python\Lib\site-packages\imageio_ffmpeg\binaries\ffmpeg-win-x86_64-v7.1.exe -y -loglevel repeat+info -i file:downloads\diag_test.f399.mp4 -i file:downloads\diag_test.f140.m4a -c copy -map 0:v:0 -map 1:a:0 -movflags +faststart file:downloads\diag_test.temp.mp4
