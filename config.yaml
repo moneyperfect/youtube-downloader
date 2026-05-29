@@ -1,0 +1,17 @@
+server:
+  host: "0.0.0.0"
+  port: 19999
+
+proxy:
+  default: "127.0.0.1:7897"
+
+download:
+  dir: "downloads"
+  timeout_minutes: 5
+
+auth:
+  password: ""  # 留空则无密码保护，设置后需通过 AUTH_PASSWORD 环境变量或此处配置
+
+security:
+  rate_limit_max: 10  # 每分钟最大请求数
+  rate_limit_window: 60  # 时间窗口（秒）

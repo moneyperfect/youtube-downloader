@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+yt-dlp
+qrcode
+imageio-ffmpeg
+pyyaml

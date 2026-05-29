@@ -1,0 +1,62 @@
+1.23MiB/s ETA 00:23
+[download]  58.9% of   68.35MiB at    1.99MiB/s ETA 00:14
+[download]  60.4% of   68.35MiB at    3.34MiB/s ETA 00:08
+[download]  63.3% of   68.35MiB at    5.77MiB/s ETA 00:04
+[download]  69.2% of   68.35MiB at    9.98MiB/s ETA 00:02
+[download]  71.9% of   68.35MiB at   10.81MiB/s ETA 00:01
+[download]  71.9% of   68.35MiB at   39.63KiB/s ETA 08:15
+[download]  71.9% of   68.35MiB at  112.17KiB/s ETA 02:55
+[download]  71.9% of   68.35MiB at  261.73KiB/s ETA 01:15
+[download]  71.9% of   68.35MiB at  560.84KiB/s ETA 00:35
+[download]  72.0% of   68.35MiB at  310.14KiB/s ETA 01:03
+[download]  72.0% of   68.35MiB at  376.63KiB/s ETA 00:52
+[download]  72.1% of   68.35MiB at  539.98KiB/s ETA 00:36
+[download]  72.3% of   68.35MiB at  825.01KiB/s ETA 00:23
+[download]  72.7% of   68.35MiB at    1.28MiB/s ETA 00:14
+[download]  73.4% of   68.35MiB at    2.12MiB/s ETA 00:08
+[download]  74.8% of   68.35MiB at    3.54MiB/s ETA 00:04
+[download]  77.8% of   68.35MiB at    6.02MiB/s ETA 00:02
+[download]  83.6% of   68.35MiB at   10.02MiB/s ETA 00:01
+[download]  86.2% of   68.35MiB at   11.76MiB/s ETA 00:00
+[download]  86.2% of   68.35MiB at   33.97KiB/s ETA 04:44
+[download]  86.2% of   68.35MiB at  100.19KiB/s ETA 01:36
+[download]  86.2% of   68.35MiB at  233.78KiB/s ETA 00:41
+[download]  86.2% of   68.35MiB at  500.95KiB/s ETA 00:19
+[download]  86.2% of   68.35MiB at  272.65KiB/s ETA 00:35
+[download]  86.3% of   68.35MiB at  329.43KiB/s ETA 00:29
+[download]  86.4% of   68.35MiB at  477.43KiB/s ETA 00:19
+[download]  86.6% of   68.35MiB at  725.44KiB/s ETA 00:12
+[download]  86.9% of   68.35MiB at    1.12MiB/s ETA 00:07
+[download]  87.7% of   68.35MiB at    1.81MiB/s ETA 00:04
+[download]  89.1% of   68.35MiB at    3.02MiB/s ETA 00:02
+[download]  92.1% of   68.35MiB at    5.23MiB/s ETA 00:01
+[download]  97.9% of   68.35MiB at    9.24MiB/s ETA 00:00
+[download] 100.0% of   68.35MiB at    9.64MiB/s ETA 00:00
+[download] 100% of   68.35MiB in 00:00:11 at 6.10MiB/s   
+[download] Destination: downloads\test_video.f140.m4a
+
+[download]   0.0% of    2.00MiB at   35.88KiB/s ETA 00:57
+[download]   0.1% of    2.00MiB at  102.09KiB/s ETA 00:20
+[download]   0.3% of    2.00MiB at  238.21KiB/s ETA 00:08
+[download]   0.7% of    2.00MiB at  510.45KiB/s ETA 00:03
+[download]   1.5% of    2.00MiB at  291.66KiB/s ETA 00:06
+[download]   3.1% of    2.00MiB at  350.65KiB/s ETA 00:05
+[download]   6.2% of    2.00MiB at  513.80KiB/s ETA 00:03
+[download]  12.4% of    2.00MiB at  775.67KiB/s ETA 00:02
+[download]  24.9% of    2.00MiB at    1.19MiB/s ETA 00:01
+[download]  49.8% of    2.00MiB at    1.91MiB/s ETA 00:00
+[download]  99.7% of    2.00MiB at    3.22MiB/s ETA 00:00
+[download] 100.0% of    2.00MiB at    3.22MiB/s ETA 00:00
+[download] 100% of    2.00MiB in 00:00:01 at 1.61MiB/s   
+[Merger] Merging formats into "downloads\test_video.mp4"
+Deleting original file downloads\test_video.f137.mp4 (pass -k to keep)
+Deleting original file downloads\test_video.f140.m4a (pass -k to keep)
+
+---STDERR---
+url = /s/player/1798f86c/player_es6.vflset/en_US/base.js
+[debug] Sort order given by extractor: quality, res, fps, hdr:12, source, vcodec, channels, acodec, lang, proto
+[debug] Formats sorted by: hasvid, ie_pref, quality, res, fps, hdr:12(7), source, vcodec, channels, acodec, lang, proto, size, br, asr, vext, aext, hasaud, id
+[debug] Invoking http downloader on "https://rr5---sn-oguesn6y.googlevideo.com/videoplayback?expire=1771201787&ei=mxCSadvRLNSA2roP3qmcmAc&ip=154.64.226.166&id=o-AF7UTr5eZu7xF-8Fiw4tEuWb01ErNgi1bNC3-7hrdvLK&itag=137&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=502&met=1771180187%2C&mh=cy&mm=31%2C29&mn=sn-oguesn6y%2Csn-oguelnz7&ms=au%2Crdu&mv=m&mvi=5&pl=24&rms=au%2Cau&gcr=jp&initcwndbps=4000000&bui=AVNa5-wmNvK7ROh5YvCqm2TLIB0n_02c92SI0ZMlxa7GMxPkNixSZX3mpiA0lJf-nGjhWjgHaOGFeuPN&spc=6dlaFLtBnZe6&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=71672691&dur=129.766&lmt=1759613805740976&mt=1771179705&fvip=1&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968%2C51772949&c=ANDROID_VR&txp=5535534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJEij0EwRgIhAJCKS1Y0YI6Wx9D6s9tYcXNCdtEPMVAoBZSZxYcZ5CBUAiEA7gVVUUTSrZ9QJ5ZBdc1ht1_gXIQlrZ0XjO32ZKgfc8A%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgcSjgd0e_E6WfyPcepuX_FbGWhGg8M0F7pjAl0cquLWUCIQCcXODqiOMEerMwnmFF-Mo33yqjzKXgFX5ufk35T-qt8g%3D%3D"
+[debug] File locking is not supported. Proceeding without locking
+[debug] Invoking http downloader on "https://rr5---sn-oguesn6y.googlevideo.com/videoplayback?expire=1771201787&ei=mxCSadvRLNSA2roP3qmcmAc&ip=154.64.226.166&id=o-AF7UTr5eZu7xF-8Fiw4tEuWb01ErNgi1bNC3-7hrdvLK&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=502&met=1771180187%2C&mh=cy&mm=31%2C29&mn=sn-oguesn6y%2Csn-oguelnz7&ms=au%2Crdu&mv=m&mvi=5&pl=24&rms=au%2Cau&gcr=jp&initcwndbps=4000000&bui=AVNa5-wmNvK7ROh5YvCqm2TLIB0n_02c92SI0ZMlxa7GMxPkNixSZX3mpiA0lJf-nGjhWjgHaOGFeuPN&spc=6dlaFLtBnZe6&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=2102199&dur=129.822&lmt=1759611542962929&mt=1771179705&fvip=1&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968%2C51772949&c=ANDROID_VR&txp=5532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJEij0EwRgIhAPm5ax0FLum-kqNwzoPLwspIe9jV7QGGoD9RsgoegcGzAiEAtJRzz7RTzAV5pFxt3r10GoCx3wPIB7bgwrAOnLe8d1A%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgcSjgd0e_E6WfyPcepuX_FbGWhGg8M0F7pjAl0cquLWUCIQCcXODqiOMEerMwnmFF-Mo33yqjzKXgFX5ufk35T-qt8g%3D%3D"
+[debug] ffmpeg command line: E:\python\Lib\site-packages\imageio_ffmpeg\binaries\ffmpeg-win-x86_64-v7.1.exe -y -loglevel repeat+info -i file:downloads\test_video.f137.mp4 -i file:downloads\test_video.f140.m4a -c copy -map 0:v:0 -map 1:a:0 -movflags +faststart file:downloads\test_video.temp.mp4

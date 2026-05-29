@@ -1,0 +1,12 @@
+node_modules/
+downloads/
+downloads_test/
+logs/
+*.log
+*.ytdl
+*.part
+__pycache__/
+*.pyc
+.env
+dist/
+*.exe
